@@ -5,7 +5,7 @@
 
 
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LauroLn&langs_count=8)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LauroLn&langs_count=8&theme=radical)
 
 ## Tecnologias que possuo conhecimento 
 
