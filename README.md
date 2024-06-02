@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www)
 
 
-
+![Lauro GitHub stats](https://github-readme-stats.vercel.app/api?username=LauroLn&show_icons=true&theme=radical)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LauroLn&langs_count=8&theme=radical)
 
 ## Tecnologias que possuo conhecimento 
